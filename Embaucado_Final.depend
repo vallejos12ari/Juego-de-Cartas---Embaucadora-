@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1720579671 source:c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\desarollojuego.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"desarrolloJuego.h"
+	"menu_nombres_creditos.h"
+	"rlutil.h"
+	"logicaJuego.h"
+
+1720565050 c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\desarrollojuego.h
+
+1720565050 c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\menu_nombres_creditos.h
+
+1718072917 c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720565050 c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\logicajuego.h
+
+1720580202 source:c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\main.cpp
+	<iostream>
+	<ctime>
+	<locale.h>
+	"logicaJuego.h"
+	"menu_nombres_creditos.h"
+	"desarrolloJuego.h"
+	"rlutil.h"
+
+1720565395 source:c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\menu_nombres_creditos.cpp
+	<iostream>
+	"menu_nombres_creditos.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+
+1720566176 source:c:\users\santi\onedrive\desktop\tsp\1- 1c\programacion1_tsp\embaucado v3\embaucado_final\logicajuego.cpp
+	<iostream>
+	"logicaJuego.h"
+	<cstdlib>
+	<locale.h>
+	<ctime>
+
+1721159745 source:c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\desarollojuego.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"desarrolloJuego.h"
+	"menu_nombres_creditos.h"
+	"rlutil.h"
+	"logicaJuego.h"
+
+1720565050 c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\desarrollojuego.h
+
+1720565050 c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\menu_nombres_creditos.h
+
+1718072917 c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720565050 c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\logicajuego.h
+
+1720981425 source:c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\logicajuego.cpp
+	<iostream>
+	"logicaJuego.h"
+	<cstdlib>
+	<locale.h>
+	<ctime>
+
+1721159628 source:c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\main.cpp
+	<iostream>
+	<ctime>
+	<locale.h>
+	"logicaJuego.h"
+	"menu_nombres_creditos.h"
+	"desarrolloJuego.h"
+	"rlutil.h"
+
+1721160040 source:c:\users\administrator\downloads\embaucado_final(1)\embaucado_final\menu_nombres_creditos.cpp
+	<iostream>
+	"menu_nombres_creditos.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+	<string>
+
+1758504750 source:c:\users\administrator\downloads\embaucadora_final2\embaucado_final\desarollojuego.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"desarrolloJuego.h"
+	"menu_nombres_creditos.h"
+	"rlutil.h"
+	"logicaJuego.h"
+
+1758504750 c:\users\administrator\downloads\embaucadora_final2\embaucado_final\desarrollojuego.h
+
+1758504750 c:\users\administrator\downloads\embaucadora_final2\embaucado_final\menu_nombres_creditos.h
+
+1758504750 c:\users\administrator\downloads\embaucadora_final2\embaucado_final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1758504750 c:\users\administrator\downloads\embaucadora_final2\embaucado_final\logicajuego.h
+
+1758504750 source:c:\users\administrator\downloads\embaucadora_final2\embaucado_final\logicajuego.cpp
+	<iostream>
+	"logicaJuego.h"
+	<cstdlib>
+	<locale.h>
+	<ctime>
+
+1758504750 source:c:\users\administrator\downloads\embaucadora_final2\embaucado_final\main.cpp
+	<iostream>
+	<ctime>
+	<locale.h>
+	"logicaJuego.h"
+	"menu_nombres_creditos.h"
+	"desarrolloJuego.h"
+	"rlutil.h"
+
+1758504750 source:c:\users\administrator\downloads\embaucadora_final2\embaucado_final\menu_nombres_creditos.cpp
+	<iostream>
+	"menu_nombres_creditos.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+	<string>
+
